@@ -1,5 +1,5 @@
-/* Exercício.; Implemente uma aplicação que mostre os valores contidos em um byte, com 
-    apenas um it igual a 1, movimentando o bit ativo da esquerda para direita.
+/* Exercício.: Implemente uma aplicação que mostre os valores contidos em um byte, com 
+    apenas um bit igual a 1, movimentando o bit ativo da esquerda para direita.
     
     Luiz Damas.
  */
